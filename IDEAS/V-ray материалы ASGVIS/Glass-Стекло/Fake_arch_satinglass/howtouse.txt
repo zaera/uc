@@ -1,0 +1,29 @@
+This material is by Riccardo Gatti
+info@corsirhino.it
+
+the material has this structure:
+
+Fake_glass
+
+ - Reflection
+	- Fresnel 
+		max230
+		min60
+ - diffuse
+	color 
+		200,204,225
+	transparecy
+		- blend, 
+			A = noise, perlin, size 0.25
+			B = A color, black
+			ratio 0.25
+ - NO REFRACTION
+ - NO DOUBLE SIDE
+ - Bump
+	- Noise, size 0.1
+ - Reflection
+	- Bitmap, spherical HDR, esterno_giorno_01.hdr
+
+
+You can play with blend amount in trasparency
+and the noise size
