@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 6c6880cf6185a8f4c895c1b1b33fc4c4
+timeCreated: 1528216128
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f0000002000000021000000220000002300000024000000250000002600000027000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 8ec7831602dfb8350879c6a51fa9cf67
+  longitude: 2.333
+  latitude: 48.867
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -34.928288, y: 11.320353, z: 2.9159145}
+      lookAt: {x: 7.5523143, y: -1.816021, z: 1.3759775}
+      up: {x: 0.29505876, y: 0.95541924, z: -0.0106959855}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 0.8612297, y: 2.54125, z: 0.7036153}
+        lookAt: {x: 1.0105097, y: -8.126731, z: -42.49024}
+        up: {x: 0.0008286621, y: 0.97082895, z: -0.23977165}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 1
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Component#3
+    100004: Component#3 1
+    100006: Component#3 2
+    100008: Component#3 3
+    100010: Group 1
+    100012: Group 12
+    100014: Group 14
+    100016: Group 16
+    100018: Group 18
+    100020: Group 22
+    100022: Group 24
+    100024: Group 26
+    100026: Group 28
+    100028: Group 3
+    100030: Group 30
+    100032: Group 4
+    100034: Group 5
+    100036: Group 7
+    100038: Group 9
+    100040: Volante 1
+    100042: Volante 1 1
+    400000: //RootNode
+    400002: Component#3
+    400004: Component#3 1
+    400006: Component#3 2
+    400008: Component#3 3
+    400010: Group 1
+    400012: Group 12
+    400014: Group 14
+    400016: Group 16
+    400018: Group 18
+    400020: Group 22
+    400022: Group 24
+    400024: Group 26
+    400026: Group 28
+    400028: Group 3
+    400030: Group 30
+    400032: Group 4
+    400034: Group 5
+    400036: Group 7
+    400038: Group 9
+    400040: Volante 1
+    400042: Volante 1 1
+    2100000: _defaultMat
+    2100002: mesh1
+    2100004: paint1 [CLR_1]1
+    2100006: mesh [CLR_1]1
+    2100008: interior1
+    2100010: Leather Black 1
+    2100012: lightsemissive1
+    2100014: '[Translucent_Glass_Gold]'
+    2100016: '[Translucent_Glass_Blue]'
+    2100018: '[Translucent_Glass_Gray]'
+    2100020: glass
+    2100022: Leather 1
+    2100024: Grey
+    2100026: Borracha
+    2100028: White Metal
+    2100030: BLACK
+    2100032: Mirrors
+    2100034: Red
+    2100036: leather_black
+    2100038: Withe Leather
+    2100040: Painel RPM
+    2100042: Painel texture
+    2100044: Tela do Som
+    2100046: '[Color_007]'
+    2100048: tire1
+    2300000: Component#3
+    2300002: Component#3 1
+    2300004: Component#3 2
+    2300006: Component#3 3
+    2300008: Group 1
+    2300010: Group 12
+    2300012: Group 14
+    2300014: Group 16
+    2300016: Group 18
+    2300018: Group 22
+    2300020: Group 24
+    2300022: Group 26
+    2300024: Group 28
+    2300026: Group 30
+    2300028: Group 5
+    2300030: Group 7
+    2300032: Volante 1
+    2300034: Volante 1 1
+    3300000: Component#3
+    3300002: Component#3 1
+    3300004: Component#3 2
+    3300006: Component#3 3
+    3300008: Group 1
+    3300010: Group 12
+    3300012: Group 14
+    3300014: Group 16
+    3300016: Group 18
+    3300018: Group 22
+    3300020: Group 24
+    3300022: Group 26
+    3300024: Group 28
+    3300026: Group 30
+    3300028: Group 5
+    3300030: Group 7
+    3300032: Volante 1
+    3300034: Volante 1 1
+    4300000: Mesh Group 1
+    4300002: Mesh Group 5
+    4300004: Mesh Group 7
+    4300006: Mesh Volante 1
+    4300008: Mesh Group 12
+    4300010: Mesh Group 14
+    4300012: Mesh Group 16
+    4300014: Mesh Group 30
+    4300016: Mesh Component#3
+    4300018: Mesh Component#3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
