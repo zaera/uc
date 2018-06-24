@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 6b4469c0d2848e545bd9565253c79f2c
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a000000
+  assetHash:
+    serializedVersion: 2
+    Hash: e859ac83b1f6edcbaa9fc87388e47b8a
+  longitude: 2.333
+  latitude: 48.867
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -9.11526, y: 0.7230859, z: -0.70317817}
+      lookAt: {x: 34.329792, y: -1.8541365, z: 8.539243}
+      up: {x: 0.056657635, y: 0.99832094, z: 0.012053242}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Component#3
+    100004: Component#3 1
+    100006: Component#3 2
+    100008: Component#3 3
+    100010: Group 1
+    400000: //RootNode
+    400002: Component#3
+    400004: Component#3 1
+    400006: Component#3 2
+    400008: Component#3 3
+    400010: Group 1
+    2100000: _defaultMat
+    2100002: mesh1
+    2100004: paint1 [CLR_1]1
+    2100006: shuts [CLR_1]1
+    2100008: mesh [CLR_1]1
+    2100010: interior1
+    2100012: '[Translucent_Glass_Blue]'
+    2100014: '[Color_009]'
+    2100016: lightsemissive1
+    2100018: Leather 1
+    2100020: Leather Black 1
+    2100022: '[Translucent_Glass_Gold]'
+    2100024: '[Translucent_Glass_Gray]'
+    2100026: Grey
+    2100028: Mirrors
+    2100030: Borracha
+    2100032: Plastic 1
+    2100034: White Metal
+    2100036: BLACK
+    2100038: leather_black
+    2100040: Red
+    2100042: Painel RPM
+    2100044: Painel texture
+    2100046: Withe Leather
+    2100048: Tela do Som
+    2100050: tire1
+    2100052: '[Color_007]'
+    2300000: Component#3
+    2300002: Component#3 1
+    2300004: Component#3 2
+    2300006: Component#3 3
+    2300008: Group 1
+    3300000: Component#3
+    3300002: Component#3 1
+    3300004: Component#3 2
+    3300006: Component#3 3
+    3300008: Group 1
+    4300000: Mesh Group 1
+    4300002: Mesh Component#3
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLACK
+    second: {fileID: 2100000, guid: 580892cdaf7bfb64d8351ef11febb983, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Borracha
+    second: {fileID: 2100000, guid: a00753a6cb53854479ebe4b3fbbd6830, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grey
+    second: {fileID: 2100000, guid: 8a4c7ad7978d2b448839c8bb631e6e76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leather 1
+    second: {fileID: 2100000, guid: fb8d2b39d0c693d4e8749dbcce2836b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leather Black 1
+    second: {fileID: 2100000, guid: 4afb39d1dcfc0814282a2af6781cce19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mirrors
+    second: {fileID: 2100000, guid: 74c2b8ef6fda97e4180e074ac4e0aa12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Painel RPM
+    second: {fileID: 2100000, guid: d1ee7f0689f368d43aea081776c073ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Painel texture
+    second: {fileID: 2100000, guid: afde0dcf4adcb0d49b7f073d402e77be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic 1
+    second: {fileID: 2100000, guid: 29f77bff43a6777448c64bde76f95fe9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red
+    second: {fileID: 2100000, guid: a6e15a870920bc14c9c4411d2fd168fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tela do Som
+    second: {fileID: 2100000, guid: 59fc3a9be8eaf334e828c816c0852146, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Metal
+    second: {fileID: 2100000, guid: 6e23dc4c399751d44a6f3e196bd9d57e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Withe Leather
+    second: {fileID: 2100000, guid: f236d516d75cb8143bbaa0656d69c43d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_007]'
+    second: {fileID: 2100000, guid: 2ec08587806c216448b886e4575dff42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_009]'
+    second: {fileID: 2100000, guid: 4849f0698ec558348b574dc438e5a513, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Translucent_Glass_Blue]'
+    second: {fileID: 2100000, guid: 6846a0d795e016b4dadcfad62d1cff6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Translucent_Glass_Gold]'
+    second: {fileID: 2100000, guid: a86f20285d12af9408f8f9662b304440, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Translucent_Glass_Gray]'
+    second: {fileID: 2100000, guid: f9d5c199644b14e419b160f8b2bd7152, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 6983d9d03a210034389dd9416c74ef47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior1
+    second: {fileID: 2100000, guid: 51f1452f00563c94a94e99a877a22469, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leather_black
+    second: {fileID: 2100000, guid: 632020b1fe1183d49aef30ba3e1f89b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lightsemissive1
+    second: {fileID: 2100000, guid: 89e9ce1eaabee2341a301cb2df3acb32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh [CLR_1]1
+    second: {fileID: 2100000, guid: 18a24562f79448c4f8b3c27a6146d8ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesh1
+    second: {fileID: 2100000, guid: 6d7753b6e320dad45bb155a00b4202ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paint1 [CLR_1]1
+    second: {fileID: 2100000, guid: 0ce3f37a53e0d6145bed2a65b177c77f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shuts [CLR_1]1
+    second: {fileID: 2100000, guid: 7e66fd89b7a7c2e40b67a3940ca038f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tire1
+    second: {fileID: 2100000, guid: e7ec851b5580ccf4b87fbb7cf7c4ad31, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Leather Black 1_extractedTex5688
+    second: {fileID: 2800000, guid: 29ff9745ab804ac448853e245e801dbc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Painel RPM_extractedTex7540
+    second: {fileID: 2800000, guid: 8664f42d59856b94f990267fc496675e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Painel texture_extractedTex5861
+    second: {fileID: 2800000, guid: 5e82a2beb5b21a843995617519e96e25, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tela do Som_extractedTex8773
+    second: {fileID: 2800000, guid: 834162ee1e10b3c418978b49ca666f58, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: White Metal_extractedTex6614
+    second: {fileID: 2800000, guid: 5748b85a4fe2ec5408960dcd8b2da237, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: leather_black_extractedTex843
+    second: {fileID: 2800000, guid: bcd4164f716cd7e45a72f003a597c01a, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

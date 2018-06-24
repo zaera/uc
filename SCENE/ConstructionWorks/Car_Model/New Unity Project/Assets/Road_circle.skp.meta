@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: e0ffe860e8e15ce45bb63de05fe51adc
+timeCreated: 1528296446
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a010000
+  assetHash:
+    serializedVersion: 2
+    Hash: fbadd0898f8064795cae6de7e4740c0c
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 71.0904, y: 54.608356, z: -81.31352}
+      lookAt: {x: 67.126945, y: 13.859972, z: -11.868597}
+      up: {x: -0.028802034, y: 0.8628439, z: 0.50464934}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Barrier Chevron
+    100002: Barrier Chevron 1
+    100004: Barrier Chevron 10
+    100006: Barrier Chevron 11
+    100008: Barrier Chevron 12
+    100010: Barrier Chevron 13
+    100012: Barrier Chevron 14
+    100014: Barrier Chevron 15
+    100016: Barrier Chevron 16
+    100018: Barrier Chevron 17
+    100020: Barrier Chevron 18
+    100022: Barrier Chevron 19
+    100024: Barrier Chevron 2
+    100026: Barrier Chevron 20
+    100028: Barrier Chevron 21
+    100030: Barrier Chevron 22
+    100032: Barrier Chevron 23
+    100034: Barrier Chevron 24
+    100036: Barrier Chevron 25
+    100038: Barrier Chevron 26
+    100040: Barrier Chevron 27
+    100042: Barrier Chevron 28
+    100044: Barrier Chevron 29
+    100046: Barrier Chevron 3
+    100048: Barrier Chevron 30
+    100050: Barrier Chevron 31
+    100052: Barrier Chevron 32
+    100054: Barrier Chevron 33
+    100056: Barrier Chevron 34
+    100058: Barrier Chevron 35
+    100060: Barrier Chevron 36
+    100062: Barrier Chevron 37
+    100064: Barrier Chevron 38
+    100066: Barrier Chevron 39
+    100068: Barrier Chevron 4
+    100070: Barrier Chevron 40
+    100072: Barrier Chevron 41
+    100074: Barrier Chevron 42
+    100076: Barrier Chevron 43
+    100078: Barrier Chevron 44
+    100080: Barrier Chevron 45
+    100082: Barrier Chevron 46
+    100084: Barrier Chevron 47
+    100086: Barrier Chevron 48
+    100088: Barrier Chevron 49
+    100090: Barrier Chevron 5
+    100092: Barrier Chevron 50
+    100094: Barrier Chevron 51
+    100096: Barrier Chevron 52
+    100098: Barrier Chevron 53
+    100100: Barrier Chevron 54
+    100102: Barrier Chevron 55
+    100104: Barrier Chevron 56
+    100106: Barrier Chevron 57
+    100108: Barrier Chevron 58
+    100110: Barrier Chevron 59
+    100112: Barrier Chevron 6
+    100114: Barrier Chevron 60
+    100116: Barrier Chevron 61
+    100118: Barrier Chevron 62
+    100120: Barrier Chevron 63
+    100122: Barrier Chevron 64
+    100124: Barrier Chevron 65
+    100126: Barrier Chevron 66
+    100128: Barrier Chevron 67
+    100130: Barrier Chevron 68
+    100132: Barrier Chevron 69
+    100134: Barrier Chevron 7
+    100136: Barrier Chevron 70
+    100138: Barrier Chevron 71
+    100140: Barrier Chevron 8
+    100142: Barrier Chevron 9
+    100144: Component#49
+    100146: Component#49 1
+    100148: Component#49 10
+    100150: Component#49 11
+    100152: Component#49 12
+    100154: Component#49 13
+    100156: Component#49 14
+    100158: Component#49 15
+    100160: Component#49 16
+    100162: Component#49 17
+    100164: Component#49 18
+    100166: Component#49 19
+    100168: Component#49 2
+    100170: Component#49 20
+    100172: Component#49 21
+    100174: Component#49 22
+    100176: Component#49 23
+    100178: Component#49 24
+    100180: Component#49 25
+    100182: Component#49 26
+    100184: Component#49 27
+    100186: Component#49 28
+    100188: Component#49 29
+    100190: Component#49 3
+    100192: Component#49 30
+    100194: Component#49 31
+    100196: Component#49 32
+    100198: Component#49 33
+    100200: Component#49 34
+    100202: Component#49 35
+    100204: Component#49 36
+    100206: Component#49 37
+    100208: Component#49 38
+    100210: Component#49 39
+    100212: Component#49 4
+    100214: Component#49 40
+    100216: Component#49 41
+    100218: Component#49 42
+    100220: Component#49 43
+    100222: Component#49 44
+    100224: Component#49 45
+    100226: Component#49 46
+    100228: Component#49 47
+    100230: Component#49 48
+    100232: Component#49 49
+    100234: Component#49 5
+    100236: Component#49 50
+    100238: Component#49 51
+    100240: Component#49 52
+    100242: Component#49 53
+    100244: Component#49 54
+    100246: Component#49 55
+    100248: Component#49 56
+    100250: Component#49 57
+    100252: Component#49 58
+    100254: Component#49 59
+    100256: Component#49 6
+    100258: Component#49 60
+    100260: Component#49 61
+    100262: Component#49 62
+    100264: Component#49 63
+    100266: Component#49 64
+    100268: Component#49 65
+    100270: Component#49 66
+    100272: Component#49 67
+    100274: Component#49 68
+    100276: Component#49 69
+    100278: Component#49 7
+    100280: Component#49 70
+    100282: Component#49 71
+    100284: Component#49 8
+    100286: Component#49 9
+    100288: Group 1
+    100290: Road Blocker - Steal
+    100292: Road Blocker - Steal 1
+    100294: Road Blocker - Steal 10
+    100296: Road Blocker - Steal 11
+    100298: Road Blocker - Steal 12
+    100300: Road Blocker - Steal 13
+    100302: Road Blocker - Steal 14
+    100304: Road Blocker - Steal 15
+    100306: Road Blocker - Steal 16
+    100308: Road Blocker - Steal 17
+    100310: Road Blocker - Steal 18
+    100312: Road Blocker - Steal 19
+    100314: Road Blocker - Steal 2
+    100316: Road Blocker - Steal 20
+    100318: Road Blocker - Steal 21
+    100320: Road Blocker - Steal 22
+    100322: Road Blocker - Steal 23
+    100324: Road Blocker - Steal 24
+    100326: Road Blocker - Steal 25
+    100328: Road Blocker - Steal 26
+    100330: Road Blocker - Steal 27
+    100332: Road Blocker - Steal 28
+    100334: Road Blocker - Steal 29
+    100336: Road Blocker - Steal 3
+    100338: Road Blocker - Steal 30
+    100340: Road Blocker - Steal 31
+    100342: Road Blocker - Steal 32
+    100344: Road Blocker - Steal 33
+    100346: Road Blocker - Steal 34
+    100348: Road Blocker - Steal 35
+    100350: Road Blocker - Steal 36
+    100352: Road Blocker - Steal 37
+    100354: Road Blocker - Steal 38
+    100356: Road Blocker - Steal 39
+    100358: Road Blocker - Steal 4
+    100360: Road Blocker - Steal 40
+    100362: Road Blocker - Steal 41
+    100364: Road Blocker - Steal 42
+    100366: Road Blocker - Steal 43
+    100368: Road Blocker - Steal 44
+    100370: Road Blocker - Steal 45
+    100372: Road Blocker - Steal 46
+    100374: Road Blocker - Steal 47
+    100376: Road Blocker - Steal 48
+    100378: Road Blocker - Steal 49
+    100380: Road Blocker - Steal 5
+    100382: Road Blocker - Steal 50
+    100384: Road Blocker - Steal 51
+    100386: Road Blocker - Steal 52
+    100388: Road Blocker - Steal 53
+    100390: Road Blocker - Steal 54
+    100392: Road Blocker - Steal 55
+    100394: Road Blocker - Steal 6
+    100396: Road Blocker - Steal 7
+    100398: Road Blocker - Steal 8
+    100400: Road Blocker - Steal 9
+    100402: //RootNode
+    400000: Barrier Chevron
+    400002: Barrier Chevron 1
+    400004: Barrier Chevron 10
+    400006: Barrier Chevron 11
+    400008: Barrier Chevron 12
+    400010: Barrier Chevron 13
+    400012: Barrier Chevron 14
+    400014: Barrier Chevron 15
+    400016: Barrier Chevron 16
+    400018: Barrier Chevron 17
+    400020: Barrier Chevron 18
+    400022: Barrier Chevron 19
+    400024: Barrier Chevron 2
+    400026: Barrier Chevron 20
+    400028: Barrier Chevron 21
+    400030: Barrier Chevron 22
+    400032: Barrier Chevron 23
+    400034: Barrier Chevron 24
+    400036: Barrier Chevron 25
+    400038: Barrier Chevron 26
+    400040: Barrier Chevron 27
+    400042: Barrier Chevron 28
+    400044: Barrier Chevron 29
+    400046: Barrier Chevron 3
+    400048: Barrier Chevron 30
+    400050: Barrier Chevron 31
+    400052: Barrier Chevron 32
+    400054: Barrier Chevron 33
+    400056: Barrier Chevron 34
+    400058: Barrier Chevron 35
+    400060: Barrier Chevron 36
+    400062: Barrier Chevron 37
+    400064: Barrier Chevron 38
+    400066: Barrier Chevron 39
+    400068: Barrier Chevron 4
+    400070: Barrier Chevron 40
+    400072: Barrier Chevron 41
+    400074: Barrier Chevron 42
+    400076: Barrier Chevron 43
+    400078: Barrier Chevron 44
+    400080: Barrier Chevron 45
+    400082: Barrier Chevron 46
+    400084: Barrier Chevron 47
+    400086: Barrier Chevron 48
+    400088: Barrier Chevron 49
+    400090: Barrier Chevron 5
+    400092: Barrier Chevron 50
+    400094: Barrier Chevron 51
+    400096: Barrier Chevron 52
+    400098: Barrier Chevron 53
+    400100: Barrier Chevron 54
+    400102: Barrier Chevron 55
+    400104: Barrier Chevron 56
+    400106: Barrier Chevron 57
+    400108: Barrier Chevron 58
+    400110: Barrier Chevron 59
+    400112: Barrier Chevron 6
+    400114: Barrier Chevron 60
+    400116: Barrier Chevron 61
+    400118: Barrier Chevron 62
+    400120: Barrier Chevron 63
+    400122: Barrier Chevron 64
+    400124: Barrier Chevron 65
+    400126: Barrier Chevron 66
+    400128: Barrier Chevron 67
+    400130: Barrier Chevron 68
+    400132: Barrier Chevron 69
+    400134: Barrier Chevron 7
+    400136: Barrier Chevron 70
+    400138: Barrier Chevron 71
+    400140: Barrier Chevron 8
+    400142: Barrier Chevron 9
+    400144: Component#49
+    400146: Component#49 1
+    400148: Component#49 10
+    400150: Component#49 11
+    400152: Component#49 12
+    400154: Component#49 13
+    400156: Component#49 14
+    400158: Component#49 15
+    400160: Component#49 16
+    400162: Component#49 17
+    400164: Component#49 18
+    400166: Component#49 19
+    400168: Component#49 2
+    400170: Component#49 20
+    400172: Component#49 21
+    400174: Component#49 22
+    400176: Component#49 23
+    400178: Component#49 24
+    400180: Component#49 25
+    400182: Component#49 26
+    400184: Component#49 27
+    400186: Component#49 28
+    400188: Component#49 29
+    400190: Component#49 3
+    400192: Component#49 30
+    400194: Component#49 31
+    400196: Component#49 32
+    400198: Component#49 33
+    400200: Component#49 34
+    400202: Component#49 35
+    400204: Component#49 36
+    400206: Component#49 37
+    400208: Component#49 38
+    400210: Component#49 39
+    400212: Component#49 4
+    400214: Component#49 40
+    400216: Component#49 41
+    400218: Component#49 42
+    400220: Component#49 43
+    400222: Component#49 44
+    400224: Component#49 45
+    400226: Component#49 46
+    400228: Component#49 47
+    400230: Component#49 48
+    400232: Component#49 49
+    400234: Component#49 5
+    400236: Component#49 50
+    400238: Component#49 51
+    400240: Component#49 52
+    400242: Component#49 53
+    400244: Component#49 54
+    400246: Component#49 55
+    400248: Component#49 56
+    400250: Component#49 57
+    400252: Component#49 58
+    400254: Component#49 59
+    400256: Component#49 6
+    400258: Component#49 60
+    400260: Component#49 61
+    400262: Component#49 62
+    400264: Component#49 63
+    400266: Component#49 64
+    400268: Component#49 65
+    400270: Component#49 66
+    400272: Component#49 67
+    400274: Component#49 68
+    400276: Component#49 69
+    400278: Component#49 7
+    400280: Component#49 70
+    400282: Component#49 71
+    400284: Component#49 8
+    400286: Component#49 9
+    400288: Group 1
+    400290: Road Blocker - Steal
+    400292: Road Blocker - Steal 1
+    400294: Road Blocker - Steal 10
+    400296: Road Blocker - Steal 11
+    400298: Road Blocker - Steal 12
+    400300: Road Blocker - Steal 13
+    400302: Road Blocker - Steal 14
+    400304: Road Blocker - Steal 15
+    400306: Road Blocker - Steal 16
+    400308: Road Blocker - Steal 17
+    400310: Road Blocker - Steal 18
+    400312: Road Blocker - Steal 19
+    400314: Road Blocker - Steal 2
+    400316: Road Blocker - Steal 20
+    400318: Road Blocker - Steal 21
+    400320: Road Blocker - Steal 22
+    400322: Road Blocker - Steal 23
+    400324: Road Blocker - Steal 24
+    400326: Road Blocker - Steal 25
+    400328: Road Blocker - Steal 26
+    400330: Road Blocker - Steal 27
+    400332: Road Blocker - Steal 28
+    400334: Road Blocker - Steal 29
+    400336: Road Blocker - Steal 3
+    400338: Road Blocker - Steal 30
+    400340: Road Blocker - Steal 31
+    400342: Road Blocker - Steal 32
+    400344: Road Blocker - Steal 33
+    400346: Road Blocker - Steal 34
+    400348: Road Blocker - Steal 35
+    400350: Road Blocker - Steal 36
+    400352: Road Blocker - Steal 37
+    400354: Road Blocker - Steal 38
+    400356: Road Blocker - Steal 39
+    400358: Road Blocker - Steal 4
+    400360: Road Blocker - Steal 40
+    400362: Road Blocker - Steal 41
+    400364: Road Blocker - Steal 42
+    400366: Road Blocker - Steal 43
+    400368: Road Blocker - Steal 44
+    400370: Road Blocker - Steal 45
+    400372: Road Blocker - Steal 46
+    400374: Road Blocker - Steal 47
+    400376: Road Blocker - Steal 48
+    400378: Road Blocker - Steal 49
+    400380: Road Blocker - Steal 5
+    400382: Road Blocker - Steal 50
+    400384: Road Blocker - Steal 51
+    400386: Road Blocker - Steal 52
+    400388: Road Blocker - Steal 53
+    400390: Road Blocker - Steal 54
+    400392: Road Blocker - Steal 55
+    400394: Road Blocker - Steal 6
+    400396: Road Blocker - Steal 7
+    400398: Road Blocker - Steal 8
+    400400: Road Blocker - Steal 9
+    400402: //RootNode
+    2100000: _defaultMat
+    2100002: '[Asphalt_New]1'
+    2100004: '[Concrete_Block_8x8_Gray]'
+    2100006: '[Concrete_Aggregate_Smoke]1'
+    2100008: '[Color_D01]'
+    2100010: '[Color M02]'
+    2100012: '[Color M09]'
+    2100014: '[Color C05]'
+    2300000: Barrier Chevron
+    2300002: Barrier Chevron 1
+    2300004: Barrier Chevron 10
+    2300006: Barrier Chevron 11
+    2300008: Barrier Chevron 12
+    2300010: Barrier Chevron 13
+    2300012: Barrier Chevron 14
+    2300014: Barrier Chevron 15
+    2300016: Barrier Chevron 16
+    2300018: Barrier Chevron 17
+    2300020: Barrier Chevron 18
+    2300022: Barrier Chevron 19
+    2300024: Barrier Chevron 2
+    2300026: Barrier Chevron 20
+    2300028: Barrier Chevron 21
+    2300030: Barrier Chevron 22
+    2300032: Barrier Chevron 23
+    2300034: Barrier Chevron 24
+    2300036: Barrier Chevron 25
+    2300038: Barrier Chevron 26
+    2300040: Barrier Chevron 27
+    2300042: Barrier Chevron 28
+    2300044: Barrier Chevron 29
+    2300046: Barrier Chevron 3
+    2300048: Barrier Chevron 30
+    2300050: Barrier Chevron 31
+    2300052: Barrier Chevron 32
+    2300054: Barrier Chevron 33
+    2300056: Barrier Chevron 34
+    2300058: Barrier Chevron 35
+    2300060: Barrier Chevron 36
+    2300062: Barrier Chevron 37
+    2300064: Barrier Chevron 38
+    2300066: Barrier Chevron 39
+    2300068: Barrier Chevron 4
+    2300070: Barrier Chevron 40
+    2300072: Barrier Chevron 41
+    2300074: Barrier Chevron 42
+    2300076: Barrier Chevron 43
+    2300078: Barrier Chevron 44
+    2300080: Barrier Chevron 45
+    2300082: Barrier Chevron 46
+    2300084: Barrier Chevron 47
+    2300086: Barrier Chevron 48
+    2300088: Barrier Chevron 49
+    2300090: Barrier Chevron 5
+    2300092: Barrier Chevron 50
+    2300094: Barrier Chevron 51
+    2300096: Barrier Chevron 52
+    2300098: Barrier Chevron 53
+    2300100: Barrier Chevron 54
+    2300102: Barrier Chevron 55
+    2300104: Barrier Chevron 56
+    2300106: Barrier Chevron 57
+    2300108: Barrier Chevron 58
+    2300110: Barrier Chevron 59
+    2300112: Barrier Chevron 6
+    2300114: Barrier Chevron 60
+    2300116: Barrier Chevron 61
+    2300118: Barrier Chevron 62
+    2300120: Barrier Chevron 63
+    2300122: Barrier Chevron 64
+    2300124: Barrier Chevron 65
+    2300126: Barrier Chevron 66
+    2300128: Barrier Chevron 67
+    2300130: Barrier Chevron 68
+    2300132: Barrier Chevron 69
+    2300134: Barrier Chevron 7
+    2300136: Barrier Chevron 70
+    2300138: Barrier Chevron 71
+    2300140: Barrier Chevron 8
+    2300142: Barrier Chevron 9
+    2300144: Group 1
+    2300146: Road Blocker - Steal
+    2300148: Road Blocker - Steal 1
+    2300150: Road Blocker - Steal 10
+    2300152: Road Blocker - Steal 11
+    2300154: Road Blocker - Steal 12
+    2300156: Road Blocker - Steal 13
+    2300158: Road Blocker - Steal 14
+    2300160: Road Blocker - Steal 15
+    2300162: Road Blocker - Steal 16
+    2300164: Road Blocker - Steal 17
+    2300166: Road Blocker - Steal 18
+    2300168: Road Blocker - Steal 19
+    2300170: Road Blocker - Steal 2
+    2300172: Road Blocker - Steal 20
+    2300174: Road Blocker - Steal 21
+    2300176: Road Blocker - Steal 22
+    2300178: Road Blocker - Steal 23
+    2300180: Road Blocker - Steal 24
+    2300182: Road Blocker - Steal 25
+    2300184: Road Blocker - Steal 26
+    2300186: Road Blocker - Steal 27
+    2300188: Road Blocker - Steal 28
+    2300190: Road Blocker - Steal 29
+    2300192: Road Blocker - Steal 3
+    2300194: Road Blocker - Steal 30
+    2300196: Road Blocker - Steal 31
+    2300198: Road Blocker - Steal 32
+    2300200: Road Blocker - Steal 33
+    2300202: Road Blocker - Steal 34
+    2300204: Road Blocker - Steal 35
+    2300206: Road Blocker - Steal 36
+    2300208: Road Blocker - Steal 37
+    2300210: Road Blocker - Steal 38
+    2300212: Road Blocker - Steal 39
+    2300214: Road Blocker - Steal 4
+    2300216: Road Blocker - Steal 40
+    2300218: Road Blocker - Steal 41
+    2300220: Road Blocker - Steal 42
+    2300222: Road Blocker - Steal 43
+    2300224: Road Blocker - Steal 44
+    2300226: Road Blocker - Steal 45
+    2300228: Road Blocker - Steal 46
+    2300230: Road Blocker - Steal 47
+    2300232: Road Blocker - Steal 48
+    2300234: Road Blocker - Steal 49
+    2300236: Road Blocker - Steal 5
+    2300238: Road Blocker - Steal 50
+    2300240: Road Blocker - Steal 51
+    2300242: Road Blocker - Steal 52
+    2300244: Road Blocker - Steal 53
+    2300246: Road Blocker - Steal 54
+    2300248: Road Blocker - Steal 55
+    2300250: Road Blocker - Steal 6
+    2300252: Road Blocker - Steal 7
+    2300254: Road Blocker - Steal 8
+    2300256: Road Blocker - Steal 9
+    3300000: Barrier Chevron
+    3300002: Barrier Chevron 1
+    3300004: Barrier Chevron 10
+    3300006: Barrier Chevron 11
+    3300008: Barrier Chevron 12
+    3300010: Barrier Chevron 13
+    3300012: Barrier Chevron 14
+    3300014: Barrier Chevron 15
+    3300016: Barrier Chevron 16
+    3300018: Barrier Chevron 17
+    3300020: Barrier Chevron 18
+    3300022: Barrier Chevron 19
+    3300024: Barrier Chevron 2
+    3300026: Barrier Chevron 20
+    3300028: Barrier Chevron 21
+    3300030: Barrier Chevron 22
+    3300032: Barrier Chevron 23
+    3300034: Barrier Chevron 24
+    3300036: Barrier Chevron 25
+    3300038: Barrier Chevron 26
+    3300040: Barrier Chevron 27
+    3300042: Barrier Chevron 28
+    3300044: Barrier Chevron 29
+    3300046: Barrier Chevron 3
+    3300048: Barrier Chevron 30
+    3300050: Barrier Chevron 31
+    3300052: Barrier Chevron 32
+    3300054: Barrier Chevron 33
+    3300056: Barrier Chevron 34
+    3300058: Barrier Chevron 35
+    3300060: Barrier Chevron 36
+    3300062: Barrier Chevron 37
+    3300064: Barrier Chevron 38
+    3300066: Barrier Chevron 39
+    3300068: Barrier Chevron 4
+    3300070: Barrier Chevron 40
+    3300072: Barrier Chevron 41
+    3300074: Barrier Chevron 42
+    3300076: Barrier Chevron 43
+    3300078: Barrier Chevron 44
+    3300080: Barrier Chevron 45
+    3300082: Barrier Chevron 46
+    3300084: Barrier Chevron 47
+    3300086: Barrier Chevron 48
+    3300088: Barrier Chevron 49
+    3300090: Barrier Chevron 5
+    3300092: Barrier Chevron 50
+    3300094: Barrier Chevron 51
+    3300096: Barrier Chevron 52
+    3300098: Barrier Chevron 53
+    3300100: Barrier Chevron 54
+    3300102: Barrier Chevron 55
+    3300104: Barrier Chevron 56
+    3300106: Barrier Chevron 57
+    3300108: Barrier Chevron 58
+    3300110: Barrier Chevron 59
+    3300112: Barrier Chevron 6
+    3300114: Barrier Chevron 60
+    3300116: Barrier Chevron 61
+    3300118: Barrier Chevron 62
+    3300120: Barrier Chevron 63
+    3300122: Barrier Chevron 64
+    3300124: Barrier Chevron 65
+    3300126: Barrier Chevron 66
+    3300128: Barrier Chevron 67
+    3300130: Barrier Chevron 68
+    3300132: Barrier Chevron 69
+    3300134: Barrier Chevron 7
+    3300136: Barrier Chevron 70
+    3300138: Barrier Chevron 71
+    3300140: Barrier Chevron 8
+    3300142: Barrier Chevron 9
+    3300144: Group 1
+    3300146: Road Blocker - Steal
+    3300148: Road Blocker - Steal 1
+    3300150: Road Blocker - Steal 10
+    3300152: Road Blocker - Steal 11
+    3300154: Road Blocker - Steal 12
+    3300156: Road Blocker - Steal 13
+    3300158: Road Blocker - Steal 14
+    3300160: Road Blocker - Steal 15
+    3300162: Road Blocker - Steal 16
+    3300164: Road Blocker - Steal 17
+    3300166: Road Blocker - Steal 18
+    3300168: Road Blocker - Steal 19
+    3300170: Road Blocker - Steal 2
+    3300172: Road Blocker - Steal 20
+    3300174: Road Blocker - Steal 21
+    3300176: Road Blocker - Steal 22
+    3300178: Road Blocker - Steal 23
+    3300180: Road Blocker - Steal 24
+    3300182: Road Blocker - Steal 25
+    3300184: Road Blocker - Steal 26
+    3300186: Road Blocker - Steal 27
+    3300188: Road Blocker - Steal 28
+    3300190: Road Blocker - Steal 29
+    3300192: Road Blocker - Steal 3
+    3300194: Road Blocker - Steal 30
+    3300196: Road Blocker - Steal 31
+    3300198: Road Blocker - Steal 32
+    3300200: Road Blocker - Steal 33
+    3300202: Road Blocker - Steal 34
+    3300204: Road Blocker - Steal 35
+    3300206: Road Blocker - Steal 36
+    3300208: Road Blocker - Steal 37
+    3300210: Road Blocker - Steal 38
+    3300212: Road Blocker - Steal 39
+    3300214: Road Blocker - Steal 4
+    3300216: Road Blocker - Steal 40
+    3300218: Road Blocker - Steal 41
+    3300220: Road Blocker - Steal 42
+    3300222: Road Blocker - Steal 43
+    3300224: Road Blocker - Steal 44
+    3300226: Road Blocker - Steal 45
+    3300228: Road Blocker - Steal 46
+    3300230: Road Blocker - Steal 47
+    3300232: Road Blocker - Steal 48
+    3300234: Road Blocker - Steal 49
+    3300236: Road Blocker - Steal 5
+    3300238: Road Blocker - Steal 50
+    3300240: Road Blocker - Steal 51
+    3300242: Road Blocker - Steal 52
+    3300244: Road Blocker - Steal 53
+    3300246: Road Blocker - Steal 54
+    3300248: Road Blocker - Steal 55
+    3300250: Road Blocker - Steal 6
+    3300252: Road Blocker - Steal 7
+    3300254: Road Blocker - Steal 8
+    3300256: Road Blocker - Steal 9
+    4300000: Mesh Group 1
+    4300002: Mesh Road Blocker - Steal
+    4300004: Mesh Barrier Chevron
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

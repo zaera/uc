@@ -1,0 +1,1598 @@
+fileFormatVersion: 2
+guid: 3318897aa85cc2e4bba556cd54d428c8
+timeCreated: 1529832075
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f020000100200001102000012020000130200001402000015020000160200001702000018020000190200001a0200001b0200001c0200001d0200001e0200001f020000200200002102000022020000230200002402000025020000260200002702000028020000290200002a0200002b0200002c0200002d0200002e0200002f020000300200003102000032020000330200003402000035020000360200003702000038020000390200003a0200003b0200003c0200003d0200003e0200003f020000400200004102000042020000430200004402000045020000460200004702000048020000490200004a0200004b0200004c0200004d0200004e0200004f020000500200005102000052020000530200005402000055020000560200005702000058020000590200005a0200005b0200005c0200005d0200005e0200005f020000600200006102000062020000630200006402000065020000660200006702000068020000690200006a0200006b0200006c0200006d0200006e0200006f020000700200007102000072020000730200007402000075020000760200007702000078020000790200007a0200007b0200007c0200007d0200007e0200007f020000800200008102000082020000830200008402000085020000860200008702000088020000890200008a0200008b0200008c0200008d0200008e0200008f020000900200009102000092020000930200009402000095020000a8020000a9020000b8020000b9020000ba020000bb020000bc020000bd020000be020000bf020000
+  assetHash:
+    serializedVersion: 2
+    Hash: 85d0d12e2f1f6cb6ddca830fac159c71
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 76.00152, y: 173.46397, z: -291.7032}
+      lookAt: {x: 69.83228, y: 156.81248, z: -258.21445}
+      up: {x: -0.079586044, y: 0.8983454, z: 0.43202046}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Component#51
+    100004: Component#53
+    100006: Component#54
+    100008: Component#59
+    100010: Component#60
+    100012: convexhull
+    100014: convexhull 1
+    100016: convexhull 10
+    100018: convexhull 100
+    100020: convexhull 101
+    100022: convexhull 102
+    100024: convexhull 103
+    100026: convexhull 104
+    100028: convexhull 105
+    100030: convexhull 106
+    100032: convexhull 107
+    100034: convexhull 108
+    100036: convexhull 109
+    100038: convexhull 11
+    100040: convexhull 110
+    100042: convexhull 111
+    100044: convexhull 112
+    100046: convexhull 113
+    100048: convexhull 114
+    100050: convexhull 115
+    100052: convexhull 116
+    100054: convexhull 117
+    100056: convexhull 118
+    100058: convexhull 119
+    100060: convexhull 12
+    100062: convexhull 120
+    100064: convexhull 121
+    100066: convexhull 122
+    100068: convexhull 123
+    100070: convexhull 124
+    100072: convexhull 125
+    100074: convexhull 126
+    100076: convexhull 127
+    100078: convexhull 128
+    100080: convexhull 129
+    100082: convexhull 13
+    100084: convexhull 130
+    100086: convexhull 131
+    100088: convexhull 132
+    100090: convexhull 133
+    100092: convexhull 134
+    100094: convexhull 135
+    100096: convexhull 136
+    100098: convexhull 137
+    100100: convexhull 138
+    100102: convexhull 139
+    100104: convexhull 14
+    100106: convexhull 140
+    100108: convexhull 141
+    100110: convexhull 142
+    100112: convexhull 143
+    100114: convexhull 144
+    100116: convexhull 145
+    100118: convexhull 146
+    100120: convexhull 147
+    100122: convexhull 148
+    100124: convexhull 149
+    100126: convexhull 15
+    100128: convexhull 150
+    100130: convexhull 151
+    100132: convexhull 152
+    100134: convexhull 153
+    100136: convexhull 154
+    100138: convexhull 155
+    100140: convexhull 156
+    100142: convexhull 157
+    100144: convexhull 158
+    100146: convexhull 159
+    100148: convexhull 16
+    100150: convexhull 160
+    100152: convexhull 161
+    100154: convexhull 162
+    100156: convexhull 163
+    100158: convexhull 164
+    100160: convexhull 165
+    100162: convexhull 166
+    100164: convexhull 167
+    100166: convexhull 168
+    100168: convexhull 169
+    100170: convexhull 17
+    100172: convexhull 170
+    100174: convexhull 171
+    100176: convexhull 172
+    100178: convexhull 173
+    100180: convexhull 174
+    100182: convexhull 175
+    100184: convexhull 176
+    100186: convexhull 177
+    100188: convexhull 178
+    100190: convexhull 179
+    100192: convexhull 18
+    100194: convexhull 180
+    100196: convexhull 181
+    100198: convexhull 182
+    100200: convexhull 183
+    100202: convexhull 184
+    100204: convexhull 185
+    100206: convexhull 186
+    100208: convexhull 187
+    100210: convexhull 188
+    100212: convexhull 189
+    100214: convexhull 19
+    100216: convexhull 190
+    100218: convexhull 191
+    100220: convexhull 192
+    100222: convexhull 193
+    100224: convexhull 194
+    100226: convexhull 195
+    100228: convexhull 196
+    100230: convexhull 197
+    100232: convexhull 198
+    100234: convexhull 199
+    100236: convexhull 2
+    100238: convexhull 20
+    100240: convexhull 200
+    100242: convexhull 201
+    100244: convexhull 202
+    100246: convexhull 203
+    100248: convexhull 204
+    100250: convexhull 205
+    100252: convexhull 206
+    100254: convexhull 207
+    100256: convexhull 208
+    100258: convexhull 209
+    100260: convexhull 21
+    100262: convexhull 210
+    100264: convexhull 211
+    100266: convexhull 212
+    100268: convexhull 22
+    100270: convexhull 23
+    100272: convexhull 24
+    100274: convexhull 25
+    100276: convexhull 26
+    100278: convexhull 27
+    100280: convexhull 28
+    100282: convexhull 29
+    100284: convexhull 3
+    100286: convexhull 30
+    100288: convexhull 31
+    100290: convexhull 32
+    100292: convexhull 33
+    100294: convexhull 34
+    100296: convexhull 35
+    100298: convexhull 36
+    100300: convexhull 37
+    100302: convexhull 38
+    100304: convexhull 39
+    100306: convexhull 4
+    100308: convexhull 40
+    100310: convexhull 41
+    100312: convexhull 42
+    100314: convexhull 43
+    100316: convexhull 44
+    100318: convexhull 45
+    100320: convexhull 46
+    100322: convexhull 47
+    100324: convexhull 48
+    100326: convexhull 49
+    100328: convexhull 5
+    100330: convexhull 50
+    100332: convexhull 51
+    100334: convexhull 52
+    100336: convexhull 53
+    100338: convexhull 54
+    100340: convexhull 55
+    100342: convexhull 56
+    100344: convexhull 57
+    100346: convexhull 58
+    100348: convexhull 59
+    100350: convexhull 6
+    100352: convexhull 60
+    100354: convexhull 61
+    100356: convexhull 62
+    100358: convexhull 63
+    100360: convexhull 64
+    100362: convexhull 65
+    100364: convexhull 66
+    100366: convexhull 67
+    100368: convexhull 68
+    100370: convexhull 69
+    100372: convexhull 7
+    100374: convexhull 70
+    100376: convexhull 71
+    100378: convexhull 72
+    100380: convexhull 73
+    100382: convexhull 74
+    100384: convexhull 75
+    100386: convexhull 76
+    100388: convexhull 77
+    100390: convexhull 78
+    100392: convexhull 79
+    100394: convexhull 8
+    100396: convexhull 80
+    100398: convexhull 81
+    100400: convexhull 82
+    100402: convexhull 83
+    100404: convexhull 84
+    100406: convexhull 85
+    100408: convexhull 86
+    100410: convexhull 87
+    100412: convexhull 88
+    100414: convexhull 89
+    100416: convexhull 9
+    100418: convexhull 90
+    100420: convexhull 91
+    100422: convexhull 92
+    100424: convexhull 93
+    100426: convexhull 94
+    100428: convexhull 95
+    100430: convexhull 96
+    100432: convexhull 97
+    100434: convexhull 98
+    100436: convexhull 99
+    100438: Group 1
+    100440: Group 10
+    100442: Group 101
+    100444: Group 108
+    100446: Group 115
+    100448: Group 122
+    100450: Group 129
+    100452: Group 136
+    100454: Group 143
+    100456: Group 150
+    100458: Group 157
+    100460: Group 164
+    100462: Group 17
+    100464: Group 171
+    100466: Group 178
+    100468: Group 185
+    100470: Group 192
+    100472: Group 199
+    100474: Group 206
+    100476: Group 213
+    100478: Group 220
+    100480: Group 227
+    100482: Group 234
+    100484: Group 24
+    100486: Group 241
+    100488: Group 248
+    100490: Group 255
+    100492: Group 262
+    100494: Group 269
+    100496: Group 276
+    100498: Group 283
+    100500: Group 290
+    100502: Group 297
+    100504: Group 3
+    100506: Group 304
+    100508: Group 31
+    100510: Group 311
+    100512: Group 318
+    100514: Group 319
+    100516: Group 321
+    100518: Group 328
+    100520: Group 335
+    100522: Group 342
+    100524: Group 349
+    100526: Group 356
+    100528: Group 363
+    100530: Group 370
+    100532: Group 377
+    100534: Group 38
+    100536: Group 384
+    100538: Group 391
+    100540: Group 398
+    100542: Group 405
+    100544: Group 412
+    100546: Group 419
+    100548: Group 426
+    100550: Group 433
+    100552: Group 440
+    100554: Group 447
+    100556: Group 45
+    100558: Group 454
+    100560: Group 461
+    100562: Group 468
+    100564: Group 475
+    100566: Group 482
+    100568: Group 489
+    100570: Group 496
+    100572: Group 503
+    100574: Group 510
+    100576: Group 512
+    100578: Group 514
+    100580: Group 516
+    100582: Group 518
+    100584: Group 52
+    100586: Group 520
+    100588: Group 522
+    100590: Group 524
+    100592: Group 526
+    100594: Group 528
+    100596: Group 530
+    100598: Group 532
+    100600: Group 534
+    100602: Group 536
+    100604: Group 538
+    100606: Group 540
+    100608: Group 542
+    100610: Group 544
+    100612: Group 546
+    100614: Group 548
+    100616: Group 550
+    100618: Group 552
+    100620: Group 554
+    100622: Group 556
+    100624: Group 558
+    100626: Group 560
+    100628: Group 562
+    100630: Group 564
+    100632: Group 566
+    100634: Group 568
+    100636: Group 570
+    100638: Group 572
+    100640: Group 574
+    100642: Group 576
+    100644: Group 578
+    100646: Group 580
+    100648: Group 582
+    100650: Group 584
+    100652: Group 585
+    100654: Group 59
+    100656: Group 598
+    100658: Group 600
+    100660: Group 66
+    100662: Group 73
+    100664: Group 80
+    100666: Group 87
+    100668: Group 9
+    100670: Group 94
+    100672: Image 594
+    100674: Image 595
+    100676: Image 596
+    100678: Image 597
+    100680: Layer:0
+    100682: Layer:00
+    100684: Layer:01
+    100686: Layer:010
+    100688: Layer:011
+    100690: Layer:012
+    100692: Layer:013
+    100694: Layer:014
+    100696: Layer:015
+    100698: Layer:016
+    100700: Layer:017
+    100702: Layer:018
+    100704: Layer:019
+    100706: Layer:02
+    100708: Layer:020
+    100710: Layer:021
+    100712: Layer:022
+    100714: Layer:023
+    100716: Layer:024
+    100718: Layer:025
+    100720: Layer:026
+    100722: Layer:027
+    100724: Layer:03
+    100726: Layer:04
+    100728: Layer:05
+    100730: Layer:06
+    100732: Layer:07
+    100734: Layer:08
+    100736: Layer:09
+    100738: michas vorlage
+    100740: michas vorlage 1
+    100742: michas vorlage 2
+    100744: michas vorlage 3
+    100746: UPN 65#1
+    100748: UPN 65#1 1
+    100750: UPN 65#1 2
+    400000: //RootNode
+    400002: Component#51
+    400004: Component#53
+    400006: Component#54
+    400008: Component#59
+    400010: Component#60
+    400012: convexhull
+    400014: convexhull 1
+    400016: convexhull 10
+    400018: convexhull 100
+    400020: convexhull 101
+    400022: convexhull 102
+    400024: convexhull 103
+    400026: convexhull 104
+    400028: convexhull 105
+    400030: convexhull 106
+    400032: convexhull 107
+    400034: convexhull 108
+    400036: convexhull 109
+    400038: convexhull 11
+    400040: convexhull 110
+    400042: convexhull 111
+    400044: convexhull 112
+    400046: convexhull 113
+    400048: convexhull 114
+    400050: convexhull 115
+    400052: convexhull 116
+    400054: convexhull 117
+    400056: convexhull 118
+    400058: convexhull 119
+    400060: convexhull 12
+    400062: convexhull 120
+    400064: convexhull 121
+    400066: convexhull 122
+    400068: convexhull 123
+    400070: convexhull 124
+    400072: convexhull 125
+    400074: convexhull 126
+    400076: convexhull 127
+    400078: convexhull 128
+    400080: convexhull 129
+    400082: convexhull 13
+    400084: convexhull 130
+    400086: convexhull 131
+    400088: convexhull 132
+    400090: convexhull 133
+    400092: convexhull 134
+    400094: convexhull 135
+    400096: convexhull 136
+    400098: convexhull 137
+    400100: convexhull 138
+    400102: convexhull 139
+    400104: convexhull 14
+    400106: convexhull 140
+    400108: convexhull 141
+    400110: convexhull 142
+    400112: convexhull 143
+    400114: convexhull 144
+    400116: convexhull 145
+    400118: convexhull 146
+    400120: convexhull 147
+    400122: convexhull 148
+    400124: convexhull 149
+    400126: convexhull 15
+    400128: convexhull 150
+    400130: convexhull 151
+    400132: convexhull 152
+    400134: convexhull 153
+    400136: convexhull 154
+    400138: convexhull 155
+    400140: convexhull 156
+    400142: convexhull 157
+    400144: convexhull 158
+    400146: convexhull 159
+    400148: convexhull 16
+    400150: convexhull 160
+    400152: convexhull 161
+    400154: convexhull 162
+    400156: convexhull 163
+    400158: convexhull 164
+    400160: convexhull 165
+    400162: convexhull 166
+    400164: convexhull 167
+    400166: convexhull 168
+    400168: convexhull 169
+    400170: convexhull 17
+    400172: convexhull 170
+    400174: convexhull 171
+    400176: convexhull 172
+    400178: convexhull 173
+    400180: convexhull 174
+    400182: convexhull 175
+    400184: convexhull 176
+    400186: convexhull 177
+    400188: convexhull 178
+    400190: convexhull 179
+    400192: convexhull 18
+    400194: convexhull 180
+    400196: convexhull 181
+    400198: convexhull 182
+    400200: convexhull 183
+    400202: convexhull 184
+    400204: convexhull 185
+    400206: convexhull 186
+    400208: convexhull 187
+    400210: convexhull 188
+    400212: convexhull 189
+    400214: convexhull 19
+    400216: convexhull 190
+    400218: convexhull 191
+    400220: convexhull 192
+    400222: convexhull 193
+    400224: convexhull 194
+    400226: convexhull 195
+    400228: convexhull 196
+    400230: convexhull 197
+    400232: convexhull 198
+    400234: convexhull 199
+    400236: convexhull 2
+    400238: convexhull 20
+    400240: convexhull 200
+    400242: convexhull 201
+    400244: convexhull 202
+    400246: convexhull 203
+    400248: convexhull 204
+    400250: convexhull 205
+    400252: convexhull 206
+    400254: convexhull 207
+    400256: convexhull 208
+    400258: convexhull 209
+    400260: convexhull 21
+    400262: convexhull 210
+    400264: convexhull 211
+    400266: convexhull 212
+    400268: convexhull 22
+    400270: convexhull 23
+    400272: convexhull 24
+    400274: convexhull 25
+    400276: convexhull 26
+    400278: convexhull 27
+    400280: convexhull 28
+    400282: convexhull 29
+    400284: convexhull 3
+    400286: convexhull 30
+    400288: convexhull 31
+    400290: convexhull 32
+    400292: convexhull 33
+    400294: convexhull 34
+    400296: convexhull 35
+    400298: convexhull 36
+    400300: convexhull 37
+    400302: convexhull 38
+    400304: convexhull 39
+    400306: convexhull 4
+    400308: convexhull 40
+    400310: convexhull 41
+    400312: convexhull 42
+    400314: convexhull 43
+    400316: convexhull 44
+    400318: convexhull 45
+    400320: convexhull 46
+    400322: convexhull 47
+    400324: convexhull 48
+    400326: convexhull 49
+    400328: convexhull 5
+    400330: convexhull 50
+    400332: convexhull 51
+    400334: convexhull 52
+    400336: convexhull 53
+    400338: convexhull 54
+    400340: convexhull 55
+    400342: convexhull 56
+    400344: convexhull 57
+    400346: convexhull 58
+    400348: convexhull 59
+    400350: convexhull 6
+    400352: convexhull 60
+    400354: convexhull 61
+    400356: convexhull 62
+    400358: convexhull 63
+    400360: convexhull 64
+    400362: convexhull 65
+    400364: convexhull 66
+    400366: convexhull 67
+    400368: convexhull 68
+    400370: convexhull 69
+    400372: convexhull 7
+    400374: convexhull 70
+    400376: convexhull 71
+    400378: convexhull 72
+    400380: convexhull 73
+    400382: convexhull 74
+    400384: convexhull 75
+    400386: convexhull 76
+    400388: convexhull 77
+    400390: convexhull 78
+    400392: convexhull 79
+    400394: convexhull 8
+    400396: convexhull 80
+    400398: convexhull 81
+    400400: convexhull 82
+    400402: convexhull 83
+    400404: convexhull 84
+    400406: convexhull 85
+    400408: convexhull 86
+    400410: convexhull 87
+    400412: convexhull 88
+    400414: convexhull 89
+    400416: convexhull 9
+    400418: convexhull 90
+    400420: convexhull 91
+    400422: convexhull 92
+    400424: convexhull 93
+    400426: convexhull 94
+    400428: convexhull 95
+    400430: convexhull 96
+    400432: convexhull 97
+    400434: convexhull 98
+    400436: convexhull 99
+    400438: Group 1
+    400440: Group 10
+    400442: Group 101
+    400444: Group 108
+    400446: Group 115
+    400448: Group 122
+    400450: Group 129
+    400452: Group 136
+    400454: Group 143
+    400456: Group 150
+    400458: Group 157
+    400460: Group 164
+    400462: Group 17
+    400464: Group 171
+    400466: Group 178
+    400468: Group 185
+    400470: Group 192
+    400472: Group 199
+    400474: Group 206
+    400476: Group 213
+    400478: Group 220
+    400480: Group 227
+    400482: Group 234
+    400484: Group 24
+    400486: Group 241
+    400488: Group 248
+    400490: Group 255
+    400492: Group 262
+    400494: Group 269
+    400496: Group 276
+    400498: Group 283
+    400500: Group 290
+    400502: Group 297
+    400504: Group 3
+    400506: Group 304
+    400508: Group 31
+    400510: Group 311
+    400512: Group 318
+    400514: Group 319
+    400516: Group 321
+    400518: Group 328
+    400520: Group 335
+    400522: Group 342
+    400524: Group 349
+    400526: Group 356
+    400528: Group 363
+    400530: Group 370
+    400532: Group 377
+    400534: Group 38
+    400536: Group 384
+    400538: Group 391
+    400540: Group 398
+    400542: Group 405
+    400544: Group 412
+    400546: Group 419
+    400548: Group 426
+    400550: Group 433
+    400552: Group 440
+    400554: Group 447
+    400556: Group 45
+    400558: Group 454
+    400560: Group 461
+    400562: Group 468
+    400564: Group 475
+    400566: Group 482
+    400568: Group 489
+    400570: Group 496
+    400572: Group 503
+    400574: Group 510
+    400576: Group 512
+    400578: Group 514
+    400580: Group 516
+    400582: Group 518
+    400584: Group 52
+    400586: Group 520
+    400588: Group 522
+    400590: Group 524
+    400592: Group 526
+    400594: Group 528
+    400596: Group 530
+    400598: Group 532
+    400600: Group 534
+    400602: Group 536
+    400604: Group 538
+    400606: Group 540
+    400608: Group 542
+    400610: Group 544
+    400612: Group 546
+    400614: Group 548
+    400616: Group 550
+    400618: Group 552
+    400620: Group 554
+    400622: Group 556
+    400624: Group 558
+    400626: Group 560
+    400628: Group 562
+    400630: Group 564
+    400632: Group 566
+    400634: Group 568
+    400636: Group 570
+    400638: Group 572
+    400640: Group 574
+    400642: Group 576
+    400644: Group 578
+    400646: Group 580
+    400648: Group 582
+    400650: Group 584
+    400652: Group 585
+    400654: Group 59
+    400656: Group 598
+    400658: Group 600
+    400660: Group 66
+    400662: Group 73
+    400664: Group 80
+    400666: Group 87
+    400668: Group 9
+    400670: Group 94
+    400672: Image 594
+    400674: Image 595
+    400676: Image 596
+    400678: Image 597
+    400680: Layer:0
+    400682: Layer:00
+    400684: Layer:01
+    400686: Layer:010
+    400688: Layer:011
+    400690: Layer:012
+    400692: Layer:013
+    400694: Layer:014
+    400696: Layer:015
+    400698: Layer:016
+    400700: Layer:017
+    400702: Layer:018
+    400704: Layer:019
+    400706: Layer:02
+    400708: Layer:020
+    400710: Layer:021
+    400712: Layer:022
+    400714: Layer:023
+    400716: Layer:024
+    400718: Layer:025
+    400720: Layer:026
+    400722: Layer:027
+    400724: Layer:03
+    400726: Layer:04
+    400728: Layer:05
+    400730: Layer:06
+    400732: Layer:07
+    400734: Layer:08
+    400736: Layer:09
+    400738: michas vorlage
+    400740: michas vorlage 1
+    400742: michas vorlage 2
+    400744: michas vorlage 3
+    400746: UPN 65#1
+    400748: UPN 65#1 1
+    400750: UPN 65#1 2
+    2100000: _defaultMat
+    2100002: '[0042_Sienna]'
+    2100004: '[0133_Gray]'
+    2100006: '[0020_Red]'
+    2100008: '[Color_C01]'
+    2100010: '[0128_White]'
+    2100012: '[Color_A01]'
+    2100014: '[0019_Crimson]'
+    2100016: '[Color_007]2'
+    2100018: '[Color_000]1'
+    2100020: '[Color_007]'
+    2100022: _Charcoal_
+    2100024: White
+    2100026: '[Color_009]'
+    2100028: '[Color_006]'
+    2100030: '[Color_005]2'
+    2100032: '[Color_005]'
+    2100034: _32
+    2100036: _Black_
+    2100038: '[Color_008]'
+    2100040: fara2
+    2100042: fara4
+    2100044: fara3
+    2100046: torm diski
+    2100048: '[Color_000]'
+    2100050: texture_squares_squared_221682_l
+    2100052: '[Color_001]1'
+    2100054: '[Translucent_Glass_Gray]1'
+    2100056: '[0016_Tomato]'
+    2100058: "\u0411\u0435\u0437 \u0438\u043C\u0435\u043D\u0438-2"
+    2100060: '[0010_Snow]'
+    2100062: diski
+    2100064: '[Color_004]'
+    2100066: '[0024_OrangeRed]'
+    2100068: Material 34
+    2100070: Material 35
+    2100072: Material 36
+    2100074: Material 37
+    2100076: '[Color_D01]'
+    2100078: download
+    2100080: _DarkGray_
+    2100082: _Gainsboro_
+    2100084: _Gold_
+    2100086: _Red_
+    2100088: _Gray Glass_2
+    2100090: '[0104_MediumBlue]'
+    2100092: '[0046_Gold]'
+    2100094: negro os1
+    2100096: dump t cabina1
+    2100098: dump t matricula1
+    2100100: dump t matricu d1
+    2100102: '[0132_LightGray]'
+    2100104: rojo1
+    2100106: blanco1
+    2100108: naranja1
+    2100110: '[0135_DarkGray]'
+    2100112: dump t llantas1
+    2100114: cristales1
+    2100116: '[0130_Gainsboro]'
+    2100118: '[Translucent_Glass_Gray]3'
+    2100120: cristales ven1
+    2100122: '[0038_Orange]'
+    2100124: '[0136_Charcoal]'
+    2100126: '[0039_DarkOrange]'
+    2100128: '[0106_DarkBlue]'
+    2100130: '[0112_SlateBlue]'
+    2100132: Color_008
+    2100134: Color_E01
+    2100136: Color_007
+    2100138: _27
+    2100140: '[0022_Maroon]'
+    2100142: Color_009
+    2100144: Color_001
+    2100146: Blinds_Roman_Hobbled_Blue
+    2100148: _29
+    2100150: Translucent_Glass_Blue
+    2100152: _30
+    2100154: Color_006
+    2100156: Color_002
+    2100158: Color_1
+    2100160: Color_000
+    2100162: '[Color_B01]'
+    2100164: '[Color_A06]'
+    2100166: _CoolGray8_
+    2100168: _CoolGray6_
+    2100170: Color_A06
+    2100172: _26
+    2100174: SKP__11_cb0ed259
+    2100176: SKP__19_cb0ed259
+    2300000: Component#53
+    2300002: Component#54
+    2300004: Component#59
+    2300006: Component#60
+    2300008: convexhull
+    2300010: convexhull 1
+    2300012: convexhull 10
+    2300014: convexhull 100
+    2300016: convexhull 101
+    2300018: convexhull 102
+    2300020: convexhull 103
+    2300022: convexhull 104
+    2300024: convexhull 105
+    2300026: convexhull 106
+    2300028: convexhull 107
+    2300030: convexhull 108
+    2300032: convexhull 109
+    2300034: convexhull 11
+    2300036: convexhull 110
+    2300038: convexhull 111
+    2300040: convexhull 112
+    2300042: convexhull 113
+    2300044: convexhull 114
+    2300046: convexhull 115
+    2300048: convexhull 116
+    2300050: convexhull 117
+    2300052: convexhull 118
+    2300054: convexhull 119
+    2300056: convexhull 12
+    2300058: convexhull 120
+    2300060: convexhull 121
+    2300062: convexhull 122
+    2300064: convexhull 123
+    2300066: convexhull 124
+    2300068: convexhull 125
+    2300070: convexhull 126
+    2300072: convexhull 127
+    2300074: convexhull 128
+    2300076: convexhull 129
+    2300078: convexhull 13
+    2300080: convexhull 130
+    2300082: convexhull 131
+    2300084: convexhull 132
+    2300086: convexhull 133
+    2300088: convexhull 134
+    2300090: convexhull 135
+    2300092: convexhull 136
+    2300094: convexhull 137
+    2300096: convexhull 138
+    2300098: convexhull 139
+    2300100: convexhull 14
+    2300102: convexhull 140
+    2300104: convexhull 141
+    2300106: convexhull 142
+    2300108: convexhull 143
+    2300110: convexhull 144
+    2300112: convexhull 145
+    2300114: convexhull 146
+    2300116: convexhull 147
+    2300118: convexhull 148
+    2300120: convexhull 149
+    2300122: convexhull 15
+    2300124: convexhull 150
+    2300126: convexhull 151
+    2300128: convexhull 152
+    2300130: convexhull 153
+    2300132: convexhull 154
+    2300134: convexhull 155
+    2300136: convexhull 156
+    2300138: convexhull 157
+    2300140: convexhull 158
+    2300142: convexhull 159
+    2300144: convexhull 16
+    2300146: convexhull 160
+    2300148: convexhull 161
+    2300150: convexhull 162
+    2300152: convexhull 163
+    2300154: convexhull 164
+    2300156: convexhull 165
+    2300158: convexhull 166
+    2300160: convexhull 167
+    2300162: convexhull 168
+    2300164: convexhull 169
+    2300166: convexhull 17
+    2300168: convexhull 170
+    2300170: convexhull 171
+    2300172: convexhull 172
+    2300174: convexhull 173
+    2300176: convexhull 174
+    2300178: convexhull 175
+    2300180: convexhull 176
+    2300182: convexhull 177
+    2300184: convexhull 178
+    2300186: convexhull 179
+    2300188: convexhull 18
+    2300190: convexhull 180
+    2300192: convexhull 181
+    2300194: convexhull 182
+    2300196: convexhull 183
+    2300198: convexhull 184
+    2300200: convexhull 185
+    2300202: convexhull 186
+    2300204: convexhull 187
+    2300206: convexhull 188
+    2300208: convexhull 189
+    2300210: convexhull 19
+    2300212: convexhull 190
+    2300214: convexhull 191
+    2300216: convexhull 192
+    2300218: convexhull 193
+    2300220: convexhull 194
+    2300222: convexhull 195
+    2300224: convexhull 196
+    2300226: convexhull 197
+    2300228: convexhull 198
+    2300230: convexhull 199
+    2300232: convexhull 2
+    2300234: convexhull 20
+    2300236: convexhull 200
+    2300238: convexhull 201
+    2300240: convexhull 202
+    2300242: convexhull 203
+    2300244: convexhull 204
+    2300246: convexhull 205
+    2300248: convexhull 206
+    2300250: convexhull 207
+    2300252: convexhull 208
+    2300254: convexhull 209
+    2300256: convexhull 21
+    2300258: convexhull 210
+    2300260: convexhull 211
+    2300262: convexhull 212
+    2300264: convexhull 22
+    2300266: convexhull 23
+    2300268: convexhull 24
+    2300270: convexhull 25
+    2300272: convexhull 26
+    2300274: convexhull 27
+    2300276: convexhull 28
+    2300278: convexhull 29
+    2300280: convexhull 3
+    2300282: convexhull 30
+    2300284: convexhull 31
+    2300286: convexhull 32
+    2300288: convexhull 33
+    2300290: convexhull 34
+    2300292: convexhull 35
+    2300294: convexhull 36
+    2300296: convexhull 37
+    2300298: convexhull 38
+    2300300: convexhull 39
+    2300302: convexhull 4
+    2300304: convexhull 40
+    2300306: convexhull 41
+    2300308: convexhull 42
+    2300310: convexhull 43
+    2300312: convexhull 44
+    2300314: convexhull 45
+    2300316: convexhull 46
+    2300318: convexhull 47
+    2300320: convexhull 48
+    2300322: convexhull 49
+    2300324: convexhull 5
+    2300326: convexhull 50
+    2300328: convexhull 51
+    2300330: convexhull 52
+    2300332: convexhull 53
+    2300334: convexhull 54
+    2300336: convexhull 55
+    2300338: convexhull 56
+    2300340: convexhull 57
+    2300342: convexhull 58
+    2300344: convexhull 59
+    2300346: convexhull 6
+    2300348: convexhull 60
+    2300350: convexhull 61
+    2300352: convexhull 62
+    2300354: convexhull 63
+    2300356: convexhull 64
+    2300358: convexhull 65
+    2300360: convexhull 66
+    2300362: convexhull 67
+    2300364: convexhull 68
+    2300366: convexhull 69
+    2300368: convexhull 7
+    2300370: convexhull 70
+    2300372: convexhull 71
+    2300374: convexhull 72
+    2300376: convexhull 73
+    2300378: convexhull 74
+    2300380: convexhull 75
+    2300382: convexhull 76
+    2300384: convexhull 77
+    2300386: convexhull 78
+    2300388: convexhull 79
+    2300390: convexhull 8
+    2300392: convexhull 80
+    2300394: convexhull 81
+    2300396: convexhull 82
+    2300398: convexhull 83
+    2300400: convexhull 84
+    2300402: convexhull 85
+    2300404: convexhull 86
+    2300406: convexhull 87
+    2300408: convexhull 88
+    2300410: convexhull 89
+    2300412: convexhull 9
+    2300414: convexhull 90
+    2300416: convexhull 91
+    2300418: convexhull 92
+    2300420: convexhull 93
+    2300422: convexhull 94
+    2300424: convexhull 95
+    2300426: convexhull 96
+    2300428: convexhull 97
+    2300430: convexhull 98
+    2300432: convexhull 99
+    2300434: Group 1
+    2300436: Group 3
+    2300438: Group 319
+    2300440: Group 510
+    2300442: Group 512
+    2300444: Group 514
+    2300446: Group 516
+    2300448: Group 518
+    2300450: Group 520
+    2300452: Group 522
+    2300454: Group 524
+    2300456: Group 526
+    2300458: Group 528
+    2300460: Group 530
+    2300462: Group 532
+    2300464: Group 534
+    2300466: Group 536
+    2300468: Group 538
+    2300470: Group 540
+    2300472: Group 542
+    2300474: Group 544
+    2300476: Group 546
+    2300478: Group 548
+    2300480: Group 550
+    2300482: Group 552
+    2300484: Group 554
+    2300486: Group 556
+    2300488: Group 558
+    2300490: Group 560
+    2300492: Group 562
+    2300494: Group 564
+    2300496: Group 566
+    2300498: Group 568
+    2300500: Group 570
+    2300502: Group 572
+    2300504: Group 574
+    2300506: Group 576
+    2300508: Group 578
+    2300510: Group 580
+    2300512: Group 582
+    2300514: Group 585
+    2300516: Group 598
+    2300518: Group 600
+    2300520: Image 594
+    2300522: Image 595
+    2300524: Image 596
+    2300526: Image 597
+    2300528: Layer:0
+    2300530: Layer:00
+    2300532: Layer:01
+    2300534: Layer:010
+    2300536: Layer:011
+    2300538: Layer:012
+    2300540: Layer:013
+    2300542: Layer:014
+    2300544: Layer:015
+    2300546: Layer:016
+    2300548: Layer:017
+    2300550: Layer:018
+    2300552: Layer:019
+    2300554: Layer:02
+    2300556: Layer:020
+    2300558: Layer:021
+    2300560: Layer:022
+    2300562: Layer:023
+    2300564: Layer:024
+    2300566: Layer:025
+    2300568: Layer:026
+    2300570: Layer:027
+    2300572: Layer:03
+    2300574: Layer:04
+    2300576: Layer:05
+    2300578: Layer:06
+    2300580: Layer:07
+    2300582: Layer:08
+    2300584: Layer:09
+    2300586: michas vorlage
+    2300588: michas vorlage 1
+    2300590: michas vorlage 2
+    2300592: michas vorlage 3
+    2300594: UPN 65#1
+    2300596: UPN 65#1 1
+    2300598: UPN 65#1 2
+    3300000: Component#53
+    3300002: Component#54
+    3300004: Component#59
+    3300006: Component#60
+    3300008: convexhull
+    3300010: convexhull 1
+    3300012: convexhull 10
+    3300014: convexhull 100
+    3300016: convexhull 101
+    3300018: convexhull 102
+    3300020: convexhull 103
+    3300022: convexhull 104
+    3300024: convexhull 105
+    3300026: convexhull 106
+    3300028: convexhull 107
+    3300030: convexhull 108
+    3300032: convexhull 109
+    3300034: convexhull 11
+    3300036: convexhull 110
+    3300038: convexhull 111
+    3300040: convexhull 112
+    3300042: convexhull 113
+    3300044: convexhull 114
+    3300046: convexhull 115
+    3300048: convexhull 116
+    3300050: convexhull 117
+    3300052: convexhull 118
+    3300054: convexhull 119
+    3300056: convexhull 12
+    3300058: convexhull 120
+    3300060: convexhull 121
+    3300062: convexhull 122
+    3300064: convexhull 123
+    3300066: convexhull 124
+    3300068: convexhull 125
+    3300070: convexhull 126
+    3300072: convexhull 127
+    3300074: convexhull 128
+    3300076: convexhull 129
+    3300078: convexhull 13
+    3300080: convexhull 130
+    3300082: convexhull 131
+    3300084: convexhull 132
+    3300086: convexhull 133
+    3300088: convexhull 134
+    3300090: convexhull 135
+    3300092: convexhull 136
+    3300094: convexhull 137
+    3300096: convexhull 138
+    3300098: convexhull 139
+    3300100: convexhull 14
+    3300102: convexhull 140
+    3300104: convexhull 141
+    3300106: convexhull 142
+    3300108: convexhull 143
+    3300110: convexhull 144
+    3300112: convexhull 145
+    3300114: convexhull 146
+    3300116: convexhull 147
+    3300118: convexhull 148
+    3300120: convexhull 149
+    3300122: convexhull 15
+    3300124: convexhull 150
+    3300126: convexhull 151
+    3300128: convexhull 152
+    3300130: convexhull 153
+    3300132: convexhull 154
+    3300134: convexhull 155
+    3300136: convexhull 156
+    3300138: convexhull 157
+    3300140: convexhull 158
+    3300142: convexhull 159
+    3300144: convexhull 16
+    3300146: convexhull 160
+    3300148: convexhull 161
+    3300150: convexhull 162
+    3300152: convexhull 163
+    3300154: convexhull 164
+    3300156: convexhull 165
+    3300158: convexhull 166
+    3300160: convexhull 167
+    3300162: convexhull 168
+    3300164: convexhull 169
+    3300166: convexhull 17
+    3300168: convexhull 170
+    3300170: convexhull 171
+    3300172: convexhull 172
+    3300174: convexhull 173
+    3300176: convexhull 174
+    3300178: convexhull 175
+    3300180: convexhull 176
+    3300182: convexhull 177
+    3300184: convexhull 178
+    3300186: convexhull 179
+    3300188: convexhull 18
+    3300190: convexhull 180
+    3300192: convexhull 181
+    3300194: convexhull 182
+    3300196: convexhull 183
+    3300198: convexhull 184
+    3300200: convexhull 185
+    3300202: convexhull 186
+    3300204: convexhull 187
+    3300206: convexhull 188
+    3300208: convexhull 189
+    3300210: convexhull 19
+    3300212: convexhull 190
+    3300214: convexhull 191
+    3300216: convexhull 192
+    3300218: convexhull 193
+    3300220: convexhull 194
+    3300222: convexhull 195
+    3300224: convexhull 196
+    3300226: convexhull 197
+    3300228: convexhull 198
+    3300230: convexhull 199
+    3300232: convexhull 2
+    3300234: convexhull 20
+    3300236: convexhull 200
+    3300238: convexhull 201
+    3300240: convexhull 202
+    3300242: convexhull 203
+    3300244: convexhull 204
+    3300246: convexhull 205
+    3300248: convexhull 206
+    3300250: convexhull 207
+    3300252: convexhull 208
+    3300254: convexhull 209
+    3300256: convexhull 21
+    3300258: convexhull 210
+    3300260: convexhull 211
+    3300262: convexhull 212
+    3300264: convexhull 22
+    3300266: convexhull 23
+    3300268: convexhull 24
+    3300270: convexhull 25
+    3300272: convexhull 26
+    3300274: convexhull 27
+    3300276: convexhull 28
+    3300278: convexhull 29
+    3300280: convexhull 3
+    3300282: convexhull 30
+    3300284: convexhull 31
+    3300286: convexhull 32
+    3300288: convexhull 33
+    3300290: convexhull 34
+    3300292: convexhull 35
+    3300294: convexhull 36
+    3300296: convexhull 37
+    3300298: convexhull 38
+    3300300: convexhull 39
+    3300302: convexhull 4
+    3300304: convexhull 40
+    3300306: convexhull 41
+    3300308: convexhull 42
+    3300310: convexhull 43
+    3300312: convexhull 44
+    3300314: convexhull 45
+    3300316: convexhull 46
+    3300318: convexhull 47
+    3300320: convexhull 48
+    3300322: convexhull 49
+    3300324: convexhull 5
+    3300326: convexhull 50
+    3300328: convexhull 51
+    3300330: convexhull 52
+    3300332: convexhull 53
+    3300334: convexhull 54
+    3300336: convexhull 55
+    3300338: convexhull 56
+    3300340: convexhull 57
+    3300342: convexhull 58
+    3300344: convexhull 59
+    3300346: convexhull 6
+    3300348: convexhull 60
+    3300350: convexhull 61
+    3300352: convexhull 62
+    3300354: convexhull 63
+    3300356: convexhull 64
+    3300358: convexhull 65
+    3300360: convexhull 66
+    3300362: convexhull 67
+    3300364: convexhull 68
+    3300366: convexhull 69
+    3300368: convexhull 7
+    3300370: convexhull 70
+    3300372: convexhull 71
+    3300374: convexhull 72
+    3300376: convexhull 73
+    3300378: convexhull 74
+    3300380: convexhull 75
+    3300382: convexhull 76
+    3300384: convexhull 77
+    3300386: convexhull 78
+    3300388: convexhull 79
+    3300390: convexhull 8
+    3300392: convexhull 80
+    3300394: convexhull 81
+    3300396: convexhull 82
+    3300398: convexhull 83
+    3300400: convexhull 84
+    3300402: convexhull 85
+    3300404: convexhull 86
+    3300406: convexhull 87
+    3300408: convexhull 88
+    3300410: convexhull 89
+    3300412: convexhull 9
+    3300414: convexhull 90
+    3300416: convexhull 91
+    3300418: convexhull 92
+    3300420: convexhull 93
+    3300422: convexhull 94
+    3300424: convexhull 95
+    3300426: convexhull 96
+    3300428: convexhull 97
+    3300430: convexhull 98
+    3300432: convexhull 99
+    3300434: Group 1
+    3300436: Group 3
+    3300438: Group 319
+    3300440: Group 510
+    3300442: Group 512
+    3300444: Group 514
+    3300446: Group 516
+    3300448: Group 518
+    3300450: Group 520
+    3300452: Group 522
+    3300454: Group 524
+    3300456: Group 526
+    3300458: Group 528
+    3300460: Group 530
+    3300462: Group 532
+    3300464: Group 534
+    3300466: Group 536
+    3300468: Group 538
+    3300470: Group 540
+    3300472: Group 542
+    3300474: Group 544
+    3300476: Group 546
+    3300478: Group 548
+    3300480: Group 550
+    3300482: Group 552
+    3300484: Group 554
+    3300486: Group 556
+    3300488: Group 558
+    3300490: Group 560
+    3300492: Group 562
+    3300494: Group 564
+    3300496: Group 566
+    3300498: Group 568
+    3300500: Group 570
+    3300502: Group 572
+    3300504: Group 574
+    3300506: Group 576
+    3300508: Group 578
+    3300510: Group 580
+    3300512: Group 582
+    3300514: Group 585
+    3300516: Group 598
+    3300518: Group 600
+    3300520: Image 594
+    3300522: Image 595
+    3300524: Image 596
+    3300526: Image 597
+    3300528: Layer:0
+    3300530: Layer:00
+    3300532: Layer:01
+    3300534: Layer:010
+    3300536: Layer:011
+    3300538: Layer:012
+    3300540: Layer:013
+    3300542: Layer:014
+    3300544: Layer:015
+    3300546: Layer:016
+    3300548: Layer:017
+    3300550: Layer:018
+    3300552: Layer:019
+    3300554: Layer:02
+    3300556: Layer:020
+    3300558: Layer:021
+    3300560: Layer:022
+    3300562: Layer:023
+    3300564: Layer:024
+    3300566: Layer:025
+    3300568: Layer:026
+    3300570: Layer:027
+    3300572: Layer:03
+    3300574: Layer:04
+    3300576: Layer:05
+    3300578: Layer:06
+    3300580: Layer:07
+    3300582: Layer:08
+    3300584: Layer:09
+    3300586: michas vorlage
+    3300588: michas vorlage 1
+    3300590: michas vorlage 2
+    3300592: michas vorlage 3
+    3300594: UPN 65#1
+    3300596: UPN 65#1 1
+    3300598: UPN 65#1 2
+    4300000: Mesh Group 1
+    4300002: Mesh Group 3
+    4300004: Mesh Component#54
+    4300006: Mesh Component#53
+    4300008: Mesh convexhull
+    4300010: Mesh convexhull
+    4300012: Mesh convexhull
+    4300014: Mesh Group 319
+    4300016: Mesh Group 510
+    4300018: Mesh Group 512
+    4300020: Mesh Group 528
+    4300022: Mesh Group 585
+    4300024: Mesh UPN 65#1
+    4300026: Mesh Component#51
+    4300028: Mesh Component#51
+    4300030: Mesh Component#51
+    4300032: Mesh Component#51
+    4300034: Mesh Group 598
+    4300036: Mesh Layer:0
+    4300038: Mesh Layer:02
+    4300040: Mesh Layer:020
+    4300042: Mesh Layer:021
+    4300044: Mesh Layer:022
+    4300046: Mesh Layer:023
+    4300048: Mesh Layer:024
+    4300050: Mesh Layer:00
+    4300052: Mesh Layer:01
+    4300054: Mesh Layer:010
+    4300056: Mesh Layer:011
+    4300058: Mesh Layer:012
+    4300060: Mesh Layer:013
+    4300062: Mesh Layer:014
+    4300064: Mesh Layer:015
+    4300066: Mesh Layer:016
+    4300068: Mesh Layer:017
+    4300070: Mesh Layer:018
+    4300072: Mesh Layer:019
+    4300074: Mesh Layer:025
+    4300076: Mesh Layer:026
+    4300078: Mesh Layer:027
+    4300080: Mesh Layer:03
+    4300082: Mesh Layer:04
+    4300084: Mesh Layer:05
+    4300086: Mesh Layer:06
+    4300088: Mesh Layer:07
+    4300090: Mesh Layer:08
+    4300092: Mesh Layer:09
+    4300094: Mesh Component#59
+    4300096: Mesh Component#60
+    4300098: Mesh michas vorlage
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
